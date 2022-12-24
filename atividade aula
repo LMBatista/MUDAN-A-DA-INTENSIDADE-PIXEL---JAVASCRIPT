@@ -14,5 +14,6 @@ pixel.setRed( media);
 pixel.setGreen( media );
 pixel.setBlue( media);
 }
-}
+}       
+
 print( img );
